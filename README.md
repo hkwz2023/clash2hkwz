@@ -1,1 +1,1 @@
-设置OpenwrtClash规则集。参考网络博主。
+设置OpenwrtClash规则集。参考许多网络博主。
