@@ -3,3 +3,8 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,javcl.com
+
+#关键字匹配
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,xvideos
+DOMAIN-KEYWORD,xhamster
