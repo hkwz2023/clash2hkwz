@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,171.115.223.89/32,no-resolve
 
 #重庆移动DNS
 IP-CIDR,218.201.4.3/32,no-resolve
