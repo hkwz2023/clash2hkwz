@@ -12,7 +12,8 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,171.115.223.89/32,no-resolve
+IP-CIDR,171.115.223.89/32,no-resolve  # 速智云
+IP-CIDR,129.226.103.33/32,no-resolve  # dnsapi.cn（DDNS-GO用）
 
 #重庆移动DNS
 IP-CIDR,218.201.4.3/32,no-resolve
