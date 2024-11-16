@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,10ncydlf.flsubcn.cc  # FASTLINK订阅地址，只能直连
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
